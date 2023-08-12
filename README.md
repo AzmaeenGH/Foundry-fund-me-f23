@@ -1,7 +1,7 @@
 # Foundry Fund Me
 
    **-----Copied README file from Course github-----**
-<br />
+<br /><br />
 This is a section of the Cyfrin Solidity Course.
 
 *[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
@@ -158,7 +158,7 @@ forge fmt
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate! ( **Patrick Collins Details below** )
+If you appreciated this, feel free to follow me or donate! ( **Below Details doesn't belong to AzmaeenGH** )
 
 ETH/Arbitrum/Optimism/Polygon/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 
